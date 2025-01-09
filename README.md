@@ -31,3 +31,24 @@
    ```bash
    npm run start
    ```
+5.wallet.json格式
+  ```bash
+[
+  {
+    "address": "address-1",
+    "privateKey": "privatekey-1"
+  },
+  {
+    "address": "address-2",
+    "privateKey": "privatekey-2"
+  },
+  {
+    "address": "address-3",
+    "privateKey": "privatekey-3"
+  },
+  {
+    "address": "address-4",
+    "privateKey": "privatekey-4"
+  }
+]
+   ```
