@@ -1,7 +1,5 @@
 # Taker Bot 自动激活每日挖矿
 
-![横幅](image.png)
-
 ## 使用前提
 
 - 使用新钱包在这里注册: [https://taker.xyz](https://earn.taker.xyz?start=EJ0D5)
