@@ -36,7 +36,7 @@ let chalk;
           const levelTag = `[ ${level.toUpperCase()} ]`;
           const timestamp = `[ ${now} ]`;
 
-          const formattedMessage = `${chalk.green("[ Taker-Mine ]")} ${chalk.cyanBright(timestamp)} ${color(levelTag)} ${message}`;
+          const formattedMessage = `${chalk.green("[ 信息提示 ]")} ${chalk.cyanBright(timestamp)} ${color(levelTag)} ${message}`;
 
           let formattedValue = ` ${chalk.green(value)}`;
           if (level === 'error') {
